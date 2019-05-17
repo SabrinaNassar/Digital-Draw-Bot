@@ -1,0 +1,3 @@
+Drawing using joystick
+joystickX	Left to right	3	SLIDER	X Rotation	0	1.0	0.0
+joystickY	Up to down	3	SLIDER	Y Rotation	0	1.0	0.0
